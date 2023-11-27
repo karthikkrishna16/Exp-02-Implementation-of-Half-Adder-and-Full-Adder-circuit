@@ -57,6 +57,7 @@ full adder:
 
 ### output:
 RTL:
+
 half adder:
 
 ![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/2bc641b6-de85-43a2-b270-6b3921975f7d)
