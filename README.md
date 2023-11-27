@@ -36,19 +36,54 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: T H KARTHIK KRISHNA 
+RegisterNumber: 23014165 
 */
-Logic symbol & Truthtable
-RTL realization
+###code:
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+half adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/a0623810-adec-453c-9c99-6835f0ed6f73)
+
+full adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/03f8905e-e046-402d-94dd-46f6af50674d)
 
 
-### TRUTH TABLE 
+### output:
+RTL:
+half adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/2bc641b6-de85-43a2-b270-6b3921975f7d)
+
+full adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/3fa45f67-9bb5-4002-9e4f-89b7046b2578)
+
+### Time diagram:
+
+half adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/4e8c1f10-d9a6-4354-b731-015c2e580101)
+
+full adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/b0995129-cd3a-4e4c-99c0-9848c48e53a2)
+
+### truth Table:
+
+half adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/b24fb4a7-a5c9-4eee-8214-0c3c4978297a)
+
+full adder:
+
+![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/a7215be2-d42f-4662-8b0d-f5ec2fafca71)
 
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using
+Verilog programming.
