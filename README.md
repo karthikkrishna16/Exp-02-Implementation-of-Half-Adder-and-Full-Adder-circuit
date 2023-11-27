@@ -45,6 +45,7 @@ RegisterNumber: 23014165
 */
 ###code:
 
+
 half adder:
 
 ![image](https://github.com/karthikkrishna16/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514663/a0623810-adec-453c-9c99-6835f0ed6f73)
