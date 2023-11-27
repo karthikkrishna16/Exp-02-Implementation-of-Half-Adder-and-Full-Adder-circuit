@@ -44,7 +44,7 @@ Developed by: T H KARTHIK KRISHNA
 RegisterNumber: 23014165 
 */
 
-###code:
+### code:
 
 half adder:
 
